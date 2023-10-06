@@ -1,4 +1,4 @@
-import { negyzet } from "../View/Negyzet.js";
+
 
  class Palya {
     constructor(szuloelem) {
